@@ -35,6 +35,7 @@ Um das minhas atividades preferidas é cozinhar, e sendo uma estusiasta da confe
 - ArduinoIDE
 - LabVIEW
 - SimulIDE
+- Visual Studio Code
 
 ## Alguns projetos realizados:
 <details>
