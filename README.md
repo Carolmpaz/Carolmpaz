@@ -7,15 +7,25 @@
 ##  Sobre mim
 Eu sou Técnica em Automação Industial e graduanda em Engenharia de Software. Em minha trajetória profissional, busco utilizar a tecnologia para criar soluções que aumentem a eficiência e melhorem a qualidade de vida da população. Minha abordagem foca em desenvolver alternativas acessíveis a todos os grupos, sempre com um compromisso sólido com a sustentabilidade.
 
-<details>
-  <summary><b>Um pouco mais sobre mim</b></summary>
-  <br/>
-<h3>Família e Amigos ❤️</h3>
-<p align="center">
-  <img src="Gif-Fotos.gif" alt="carrossel de fotos">
-</p>
+```
+class Pessoa:
+    def __init__(self, nome, idade, graduação, hobbies):
+        self.nome = nome
+        self.idade = idade
+        self.profissão = graduação
+        self.hobbies = hobbies
+
+# Criando um objeto da classe Pessoa
+pessoa = Pessoa(
+    nome="Carol",
+    idade=18,
+    profissão=" Engenheira de computação",
+    hobbies=["Cozinhar", "Ouvir música"]
+)
+```
+
 <h3> Peculiaridade sobre mim </h3>
-Um das minhas atividades preferidas é cozinhar, e sendo uma estusiasta da confeitaria, eu amo fazer todos os tipos de doces, sendo conhecida por fazer os melhores  cookies e brownies. 🍪🍫
+Além da minha paixão pela tecnologia, sempre fui fascinada pela área da saúde. Por isso, ao desenvolver projetos, busco criar soluções que melhorem o bem-estar das pessoas. Já realizei alguns trabalhos que exploram a interseção entre tecnologia e saúde, e pretendo seguir esse caminho como a principal diretriz para minha carreira profissional.
 </details>
 
 ##  Habilidades
