@@ -19,7 +19,7 @@ class Pessoa:
 pessoa = Pessoa(
     nome="Carol",
     idade=18,
-    profissão=" Engenheira de computação",
+    profissão=" Engenheira de software",
     hobbies=["Cozinhar", "Ouvir música"]
 )
 ```
